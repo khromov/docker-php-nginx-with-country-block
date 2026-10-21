@@ -1,4 +1,4 @@
-FROM docker.pkg.github.com/khromov/docker-php-nginx/docker-php-nginx
+FROM ghcr.io/khromov/docker-php-nginx/docker-php-nginx
 
 USER root
 
